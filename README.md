@@ -21,10 +21,3 @@ Modifies the `ProcessorNameString` value in Windows Registry to change how your 
 | 🛡️ **Safety First** | Admin checks & validation before registry edits |
 
 ---
-
-## 🚀 **Quick Start**
-
-### **Method 1: One-Click (Recommended)**
-```bash
-# Just double-click RUN.bat
-# The tool handles everything automatically
